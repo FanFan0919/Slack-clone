@@ -17,4 +17,5 @@ Here is what you can do for easier communication with it:
   4. talk inside a channel or send a direct message to someone
   5. search for public workspace and channels and apply for it.
   
-  
+Here is some screenshots of the web application.
+![image](http://github.com/FanFan0919/Slack-clone/raw/master/screenshots/Slack.jpg)
