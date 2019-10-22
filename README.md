@@ -18,4 +18,15 @@ Here is what you can do for easier communication with it:
   5. search for public workspace and channels and apply for it.
   
 Here is some screenshots of the web application.
+
 ![ScreenShot](https://raw.githubusercontent.com/FanFan0919/Slack-clone/master/screenshots/Slack.jpg)
+**Slack Clone**
+
+![ScreenShot](https://raw.githubusercontent.com/FanFan0919/Slack-clone/master/screenshots/CreateWorkspace.jpg)
+**Create Workspace**
+
+![ScreenShot](https://raw.githubusercontent.com/FanFan0919/Slack-clone/master/screenshots/InfomationNotification.jpg)
+**Infomation Notification**
+
+![ScreenShot](https://raw.githubusercontent.com/FanFan0919/Slack-clone/master/screenshots/Searching.jpg)
+**Searching for Workspaces and Channels**
